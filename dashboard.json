@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T22:40:37+00:00",
+  "updated": "2026-06-10T22:51:01+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -466,6 +466,10 @@
         {
           "title": "Sapiens: A Brief History of Humankind",
           "genre": "wildcard"
+        },
+        {
+          "title": "Dune",
+          "genre": "fantasy"
         }
       ]
     },
@@ -1241,12 +1245,12 @@
   },
   "stats": {
     "owned_count": 397,
-    "recs_count": 186,
+    "recs_count": 187,
     "rec_days": 18,
     "loved_count": 0,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 3,
+      "fantasy": 4,
       "sci-fi": 2
     }
   }
