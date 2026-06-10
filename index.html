@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Book Bot Dashboard</title>
+<style>
+  :root { --bg:#f5f5f5; --card:#fff; --ink:#1a1a1a; --muted:#666; --accent:#b0651a; --line:#eee; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink);
+         font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; }
+  .wrap { max-width:880px; margin:0 auto; padding:24px 16px 60px; }
+  header { background:var(--ink); color:#fff; border-radius:12px; padding:26px 24px; }
+  header .kick { font-size:13px; letter-spacing:.08em; text-transform:uppercase; color:var(--accent); font-weight:700; }
+  header h1 { font-size:26px; font-weight:800; margin:4px 0 6px; }
+  header .sub { font-size:14px; color:#bbb; }
+  .stats { display:grid; grid-template-columns:repeat(auto-fit,minmax(120px,1fr)); gap:12px; margin:18px 0; }
+  .stat { background:var(--card); border-radius:12px; padding:16px; text-align:center; }
+  .stat .n { font-size:28px; font-weight:800; color:var(--accent); }
+  .stat .l { font-size:12px; color:var(--muted); text-transform:uppercase; letter-spacing:.05em; margin-top:4px; }
+  section { background:var(--card); border-radius:12px; padding:20px 22px; margin:16px 0; }
+  h2 { font-size:18px; margin:0 0 14px; }
+  .chips span { display:inline-block; background:#fef7e0; color:#9a6700; border-radius:10px;
+                padding:4px 10px; font-size:13px; font-weight:600; margin:0 6px 6px 0; }
+  .day { border-top:1px solid var(--line); padding:12px 0; }
+  .day:first-child { border-top:none; }
+  .day .date { font-size:13px; font-weight:700; color:var(--accent); margin-bottom:6px; }
+  .day ul { margin:0; padding-left:18px; }
+  .day li { font-size:14px; line-height:1.5; }
+  .day .g { color:var(--muted); font-size:12px; }
+  .wild { color:#8a5cf6; font-weight:600; }
+  #search { width:100%; padding:10px 12px; border:1px solid #ddd; border-radius:8px; font-size:14px; margin-bottom:12px; }
+  .lib { columns:2; font-size:13px; line-height:1.7; color:#333; }
+  .lib div { break-inside:avoid; }
+  @media (max-width:560px){ .lib{columns:1;} }
+  .two { display:grid; grid-template-columns:1fr 1fr; gap:16px; }
+  @media (max-width:560px){ .two{grid-template-columns:1fr;} }
+  .loved li { color:#137333; } .disliked li { color:#b00020; }
+  .foot { text-align:center; font-size:12px; color:#aaa; margin-top:20px; }
+  .empty { color:var(--muted); font-size:14px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="kick">Book Bot</div>
+    <h1>Your Reading Dashboard</h1>
+    <div class="sub" id="updated">Loading…</div>
+  </header>
+
+  <div class="stats" id="stats"></div>
+
+  <section>
+    <h2>Genres recommended</h2>
+    <div class="chips" id="genres"><span class="empty">No genre data yet — populates as new recs go out.</span></div>
+  </section>
+
+  <div class="two">
+    <section>
+      <h2>👍 Loved</h2>
+      <ul class="loved" id="loved"></ul>
+    </section>
+    <section>
+      <h2>👎 Not for me</h2>
+      <ul class="disliked" id="disliked"></ul>
+    </section>
+  </div>
+
+  <section>
+    <h2>Recommendation history</h2>
+    <div id="history"></div>
+  </section>
+
+  <section>
+    <h2>Your library (<span id="libcount">0</span>)</h2>
+    <input id="search" placeholder="Search your library…">
+    <div class="lib" id="library"></div>
+  </section>
+
+  <div class="foot">Auto-generated from your Goodreads + Drive library · <span id="foot-updated"></span></div>
+</div>
+
+<script>
+function el(t, cls, html){ const e=document.createElement(t); if(cls)e.className=cls; if(html!=null)e.innerHTML=html; return e; }
+function esc(s){ return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;"); }
+
+fetch("dashboard.json?t=" + Date.now())
+  .then(r => r.json())
+  .then(d => {
+    const when = d.updated ? new Date(d.updated).toLocaleString() : "unknown";
+    document.getElementById("updated").textContent = "Last updated " + when;
+    document.getElementById("foot-updated").textContent = when;
+
+    const s = d.stats || {};
+    const cards = [
+      ["owned_count","Books owned"], ["recs_count","Recs sent"],
+      ["rec_days","Days running"], ["loved_count","Loved"], ["disliked_count","Passed"],
+    ];
+    const statsEl = document.getElementById("stats");
+    cards.forEach(([k,l]) => {
+      const c = el("div","stat");
+      c.append(el("div","n", s[k] ?? 0), el("div","l", l));
+      statsEl.append(c);
+    });
+
+    const byGenre = s.by_genre || {};
+    if (Object.keys(byGenre).length) {
+      const g = document.getElementById("genres"); g.innerHTML = "";
+      Object.entries(byGenre).forEach(([k,v]) => g.append(el("span", null, esc(k)+" · "+v)));
+    }
+
+    const fb = d.feedback || {loved:[],disliked:[]};
+    const fill = (id, arr) => {
+      const ul = document.getElementById(id);
+      if (!arr.length){ ul.append(el("li","empty","Nothing yet")); return; }
+      arr.forEach(t => ul.append(el("li", null, esc(t))));
+    };
+    fill("loved", fb.loved||[]); fill("disliked", fb.disliked||[]);
+
+    const hist = document.getElementById("history");
+    (d.rec_history||[]).forEach(day => {
+      const wrap = el("div","day");
+      wrap.append(el("div","date", esc(day.date)));
+      const ul = el("ul");
+      day.picks.forEach(p => {
+        const wild = p.genre === "wildcard";
+        const tag = p.genre && !wild ? ` <span class="g">(${esc(p.genre)})</span>` : (wild ? ' <span class="wild">🎲 wildcard</span>' : "");
+        ul.append(el("li", null, esc(p.title) + tag));
+      });
+      wrap.append(ul); hist.append(wrap);
+    });
+    if (!(d.rec_history||[]).length) hist.append(el("div","empty","No history yet"));
+
+    const lib = d.library || [];
+    document.getElementById("libcount").textContent = lib.length;
+    const libEl = document.getElementById("library");
+    const render = (q) => {
+      libEl.innerHTML = "";
+      const ql = q.trim().toLowerCase();
+      const shown = lib.filter(x => !ql || x.toLowerCase().includes(ql));
+      shown.forEach(x => libEl.append(el("div", null, esc(x.replace(/\.epub$/i,"")))));
+      if (!shown.length) libEl.append(el("div","empty","No matches"));
+    };
+    render("");
+    document.getElementById("search").addEventListener("input", e => render(e.target.value));
+  })
+  .catch(e => { document.getElementById("updated").textContent = "Failed to load dashboard.json"; console.error(e); });
+</script>
+</body>
+</html>
