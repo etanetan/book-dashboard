@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T23:04:19+00:00",
+  "updated": "2026-06-11T16:29:27+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -400,6 +400,51 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-06-11",
+      "picks": [
+        {
+          "title": "A Deadly Education",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Dune",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Silvered",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Klara and the Sun",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Thousand Autumns of Jacob de Zoet",
+          "genre": "literary"
+        },
+        {
+          "title": "The Peripheral",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Ninth House",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Mask of Mirrors",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Blindsight",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Wrecking Crew",
+          "genre": "nonfiction"
+        }
+      ]
+    },
     {
       "date": "2026-06-10",
       "picks": [
@@ -1285,13 +1330,15 @@
   },
   "stats": {
     "owned_count": 397,
-    "recs_count": 197,
-    "rec_days": 18,
+    "recs_count": 207,
+    "rec_days": 19,
     "loved_count": 0,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 10,
-      "sci-fi": 6
+      "fantasy": 14,
+      "sci-fi": 10,
+      "literary": 1,
+      "nonfiction": 1
     }
   }
 }
