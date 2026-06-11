@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T16:55:28+00:00",
+  "updated": "2026-06-11T17:02:31+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -450,6 +450,50 @@
         {
           "title": "Oryx and Crake",
           "genre": "sci-fi"
+        },
+        {
+          "title": "Swordheart",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Library of the Unwritten",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Black God's Drums",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Stone in the Skull",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Prey of Gods",
+          "genre": "other"
+        },
+        {
+          "title": "The Expert System's Champion",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Gideon Smith and the Mechanical Girl",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Lies of John Bolton",
+          "genre": "nonfiction"
+        },
+        {
+          "title": "Anchorhead",
+          "genre": "horror"
+        },
+        {
+          "title": "The Luminous Dead",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Undocumented Americans",
+          "genre": "wildcard"
         }
       ]
     },
@@ -1338,15 +1382,17 @@
   },
   "stats": {
     "owned_count": 397,
-    "recs_count": 209,
+    "recs_count": 220,
     "rec_days": 19,
     "loved_count": 0,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 14,
-      "sci-fi": 12,
+      "fantasy": 18,
+      "sci-fi": 15,
+      "nonfiction": 2,
       "literary": 1,
-      "nonfiction": 1
+      "other": 1,
+      "horror": 1
     }
   }
 }
