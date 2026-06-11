@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T16:29:27+00:00",
+  "updated": "2026-06-11T16:55:28+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -442,6 +442,14 @@
         {
           "title": "The Wrecking Crew",
           "genre": "nonfiction"
+        },
+        {
+          "title": "Dune",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Oryx and Crake",
+          "genre": "sci-fi"
         }
       ]
     },
@@ -1330,13 +1338,13 @@
   },
   "stats": {
     "owned_count": 397,
-    "recs_count": 207,
+    "recs_count": 209,
     "rec_days": 19,
     "loved_count": 0,
     "disliked_count": 0,
     "by_genre": {
       "fantasy": 14,
-      "sci-fi": 10,
+      "sci-fi": 12,
       "literary": 1,
       "nonfiction": 1
     }
