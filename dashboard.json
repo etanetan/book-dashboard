@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T17:02:31+00:00",
+  "updated": "2026-06-12T13:03:35+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -400,6 +400,47 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-06-12",
+      "picks": [
+        {
+          "title": "The Unspoken Name",
+          "genre": "fantasy"
+        },
+        {
+          "title": "A Memory Called Empire",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Thursday Murder Club",
+          "genre": "mystery"
+        },
+        {
+          "title": "Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants",
+          "genre": "nonfiction"
+        },
+        {
+          "title": "Sorrow of an American",
+          "genre": "literary"
+        },
+        {
+          "title": "The Hollow Places",
+          "genre": "horror"
+        },
+        {
+          "title": "The Hands of the Emperor",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Bone Witch",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Mexican Gothic",
+          "genre": "wildcard"
+        }
+      ]
+    },
     {
       "date": "2026-06-11",
       "picks": [
@@ -1382,17 +1423,18 @@
   },
   "stats": {
     "owned_count": 397,
-    "recs_count": 220,
-    "rec_days": 19,
+    "recs_count": 229,
+    "rec_days": 20,
     "loved_count": 0,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 18,
-      "sci-fi": 15,
-      "nonfiction": 2,
-      "literary": 1,
+      "fantasy": 21,
+      "sci-fi": 16,
+      "nonfiction": 3,
+      "literary": 2,
+      "horror": 2,
       "other": 1,
-      "horror": 1
+      "mystery": 1
     }
   }
 }
