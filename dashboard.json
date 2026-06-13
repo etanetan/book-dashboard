@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T13:03:35+00:00",
+  "updated": "2026-06-13T12:33:20+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -400,6 +400,51 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-06-13",
+      "picks": [
+        {
+          "title": "Warbreaker",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Winter People",
+          "genre": "horror"
+        },
+        {
+          "title": "The Devil Crept In",
+          "genre": "horror"
+        },
+        {
+          "title": "The Invited",
+          "genre": "horror"
+        },
+        {
+          "title": "The Rust Maidens",
+          "genre": "horror"
+        },
+        {
+          "title": "The Strange Library",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The End of Eddy",
+          "genre": "literary"
+        },
+        {
+          "title": "The New Me",
+          "genre": "literary"
+        },
+        {
+          "title": "Lullaby",
+          "genre": "literary"
+        },
+        {
+          "title": "The Wallcreeper",
+          "genre": "literary"
+        }
+      ]
+    },
     {
       "date": "2026-06-12",
       "picks": [
@@ -1423,16 +1468,16 @@
   },
   "stats": {
     "owned_count": 397,
-    "recs_count": 229,
-    "rec_days": 20,
+    "recs_count": 239,
+    "rec_days": 21,
     "loved_count": 0,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 21,
+      "fantasy": 23,
       "sci-fi": 16,
+      "literary": 6,
+      "horror": 6,
       "nonfiction": 3,
-      "literary": 2,
-      "horror": 2,
       "other": 1,
       "mystery": 1
     }
