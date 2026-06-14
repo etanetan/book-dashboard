@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T12:33:20+00:00",
+  "updated": "2026-06-14T12:35:54+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -400,6 +400,23 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-06-14",
+      "picks": [
+        {
+          "title": "The Broken Earth",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Sorcerer to the Crown",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Remains of the Day",
+          "genre": "wildcard"
+        }
+      ]
+    },
     {
       "date": "2026-06-13",
       "picks": [
@@ -1468,12 +1485,12 @@
   },
   "stats": {
     "owned_count": 397,
-    "recs_count": 239,
-    "rec_days": 21,
+    "recs_count": 242,
+    "rec_days": 22,
     "loved_count": 0,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 23,
+      "fantasy": 25,
       "sci-fi": 16,
       "literary": 6,
       "horror": 6,
