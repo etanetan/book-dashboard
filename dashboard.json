@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T14:02:57+00:00",
+  "updated": "2026-06-16T13:34:43+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -400,6 +400,23 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-06-16",
+      "picks": [
+        {
+          "title": "Jonathan Strange & Mr Norrell",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Lies of the Locksmiths",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Five-Star Weekend",
+          "genre": "wildcard"
+        }
+      ]
+    },
     {
       "date": "2026-06-15",
       "picks": [
@@ -1530,12 +1547,12 @@
   },
   "stats": {
     "owned_count": 397,
-    "recs_count": 252,
-    "rec_days": 23,
+    "recs_count": 255,
+    "rec_days": 24,
     "loved_count": 0,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 30,
+      "fantasy": 32,
       "sci-fi": 21,
       "literary": 6,
       "horror": 6,
