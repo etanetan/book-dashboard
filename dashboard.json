@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T13:34:43+00:00",
+  "updated": "2026-06-17T13:11:07+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -400,6 +400,39 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-06-17",
+      "picks": [
+        {
+          "title": "The Quantum Thief",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Perdition",
+          "genre": "mystery"
+        },
+        {
+          "title": "The Heroes",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Hundred Thousand Kingdoms",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Jasmine Throne",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Slow Regard of Silent Things",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Educated",
+          "genre": "wildcard"
+        }
+      ]
+    },
     {
       "date": "2026-06-16",
       "picks": [
@@ -1547,18 +1580,18 @@
   },
   "stats": {
     "owned_count": 397,
-    "recs_count": 255,
-    "rec_days": 24,
+    "recs_count": 262,
+    "rec_days": 25,
     "loved_count": 0,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 32,
-      "sci-fi": 21,
+      "fantasy": 36,
+      "sci-fi": 22,
       "literary": 6,
       "horror": 6,
       "nonfiction": 3,
-      "other": 1,
-      "mystery": 1
+      "mystery": 2,
+      "other": 1
     }
   }
 }
