@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T13:04:03+00:00",
+  "updated": "2026-06-18T16:56:17+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -428,6 +428,18 @@
         },
         {
           "title": "The Shadow of the Torturer",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Dune",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Vita Nostra",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Ninth Rain",
           "genre": "fantasy"
         }
       ]
@@ -1614,13 +1626,13 @@
   },
   "stats": {
     "owned_count": 416,
-    "recs_count": 264,
+    "recs_count": 267,
     "rec_days": 26,
     "loved_count": 1,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 38,
-      "sci-fi": 22,
+      "fantasy": 40,
+      "sci-fi": 23,
       "literary": 6,
       "horror": 6,
       "nonfiction": 3,
