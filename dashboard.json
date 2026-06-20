@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T16:56:17+00:00",
+  "updated": "2026-06-20T12:33:21+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -419,6 +419,23 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-06-20",
+      "picks": [
+        {
+          "title": "Kings of Paradise",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Wolf of Oren-Yaro",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Overstory",
+          "genre": "wildcard"
+        }
+      ]
+    },
     {
       "date": "2026-06-18",
       "picks": [
@@ -1620,18 +1637,20 @@
   ],
   "feedback": {
     "loved": [
-      "Lexicon"
+      "Dune",
+      "Lexicon",
+      "The Ninth Rain"
     ],
     "disliked": []
   },
   "stats": {
     "owned_count": 416,
-    "recs_count": 267,
-    "rec_days": 26,
-    "loved_count": 1,
+    "recs_count": 270,
+    "rec_days": 27,
+    "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 40,
+      "fantasy": 42,
       "sci-fi": 23,
       "literary": 6,
       "horror": 6,
