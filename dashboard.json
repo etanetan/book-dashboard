@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T12:33:21+00:00",
+  "updated": "2026-06-21T12:38:19+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -419,6 +419,55 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-06-21",
+      "picks": [
+        {
+          "title": "The Wolf Among Us",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Sunlit Sword",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Pirate Latitudes",
+          "genre": "literary"
+        },
+        {
+          "title": "The Twisted Ones",
+          "genre": "horror"
+        },
+        {
+          "title": "Slewfoot: A Tale of Bewitchery",
+          "genre": "horror"
+        },
+        {
+          "title": "The Knife of Never Letting Go",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Grave Mercy",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Crimson Empire",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Strange the Dreamer",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Senlin Ascends",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Remarkably Bright",
+          "genre": "wildcard"
+        }
+      ]
+    },
     {
       "date": "2026-06-20",
       "picks": [
@@ -1645,15 +1694,15 @@
   },
   "stats": {
     "owned_count": 416,
-    "recs_count": 270,
-    "rec_days": 27,
+    "recs_count": 281,
+    "rec_days": 28,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 42,
-      "sci-fi": 23,
-      "literary": 6,
-      "horror": 6,
+      "fantasy": 48,
+      "sci-fi": 24,
+      "horror": 8,
+      "literary": 7,
       "nonfiction": 3,
       "mystery": 2,
       "other": 1
