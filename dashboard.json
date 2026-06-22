@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T12:38:19+00:00",
+  "updated": "2026-06-22T13:51:06+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -419,6 +419,19 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-06-22",
+      "picks": [
+        {
+          "title": "The Only Good Indians",
+          "genre": "horror"
+        },
+        {
+          "title": "Howl's Moving Castle",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-06-21",
       "picks": [
@@ -1694,14 +1707,14 @@
   },
   "stats": {
     "owned_count": 416,
-    "recs_count": 281,
-    "rec_days": 28,
+    "recs_count": 283,
+    "rec_days": 29,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 48,
+      "fantasy": 49,
       "sci-fi": 24,
-      "horror": 8,
+      "horror": 9,
       "literary": 7,
       "nonfiction": 3,
       "mystery": 2,
