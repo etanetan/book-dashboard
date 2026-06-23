@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T13:51:06+00:00",
+  "updated": "2026-06-23T12:54:48+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -408,6 +408,7 @@
     "Warbreaker by Brandon Sanderson.epub",
     "Watership Down by Richard Adams.epub",
     "We Are Legion by Dennis E. Taylor.epub",
+    "We Were Liars by E. Lockhart.epub",
     "What Happens at Night by Peter Cameron.epub",
     "When the Moon Hatched Moonfall by Sarah A. Parker.epub",
     "White Noise by Don DeLillo.epub",
@@ -419,6 +420,35 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-06-23",
+      "picks": [
+        {
+          "title": "Tress of the Emerald Sea",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Red Sister",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Dune",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Gnomon",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Permutation City",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Killer Across the Table: Unlocking the Secrets of Serial Killers and Predators with the FBI's Legendary Mindhunter",
+          "genre": "nonfiction"
+        }
+      ]
+    },
     {
       "date": "2026-06-22",
       "picks": [
@@ -1706,17 +1736,17 @@
     "disliked": []
   },
   "stats": {
-    "owned_count": 416,
-    "recs_count": 283,
-    "rec_days": 29,
+    "owned_count": 417,
+    "recs_count": 289,
+    "rec_days": 30,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 49,
-      "sci-fi": 24,
+      "fantasy": 51,
+      "sci-fi": 27,
       "horror": 9,
       "literary": 7,
-      "nonfiction": 3,
+      "nonfiction": 4,
       "mystery": 2,
       "other": 1
     }
