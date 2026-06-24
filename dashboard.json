@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T12:54:48+00:00",
+  "updated": "2026-06-24T12:42:39+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -420,6 +420,31 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-06-24",
+      "picks": [
+        {
+          "title": "City of Lies",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Pirate Sun",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Elegy",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Silmarillion",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Faithless Executioner",
+          "genre": "wildcard"
+        }
+      ]
+    },
     {
       "date": "2026-06-23",
       "picks": [
@@ -1737,13 +1762,13 @@
   },
   "stats": {
     "owned_count": 417,
-    "recs_count": 289,
-    "rec_days": 30,
+    "recs_count": 294,
+    "rec_days": 31,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 51,
-      "sci-fi": 27,
+      "fantasy": 53,
+      "sci-fi": 29,
       "horror": 9,
       "literary": 7,
       "nonfiction": 4,
