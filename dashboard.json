@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T12:42:39+00:00",
+  "updated": "2026-06-25T12:44:19+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -420,6 +420,19 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-06-25",
+      "picks": [
+        {
+          "title": "Towards Zero",
+          "genre": "mystery"
+        },
+        {
+          "title": "Half a King",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-06-24",
       "picks": [
@@ -1762,17 +1775,17 @@
   },
   "stats": {
     "owned_count": 417,
-    "recs_count": 294,
-    "rec_days": 31,
+    "recs_count": 296,
+    "rec_days": 32,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 53,
+      "fantasy": 54,
       "sci-fi": 29,
       "horror": 9,
       "literary": 7,
       "nonfiction": 4,
-      "mystery": 2,
+      "mystery": 3,
       "other": 1
     }
   }
