@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T12:44:19+00:00",
+  "updated": "2026-06-26T12:39:51+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -420,6 +420,31 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-06-26",
+      "picks": [
+        {
+          "title": "The Deep",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The City in the Middle of the Night",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Bone Maker",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Last House Guest",
+          "genre": "mystery"
+        },
+        {
+          "title": "The Family Upstairs",
+          "genre": "mystery"
+        }
+      ]
+    },
     {
       "date": "2026-06-25",
       "picks": [
@@ -1775,17 +1800,17 @@
   },
   "stats": {
     "owned_count": 417,
-    "recs_count": 296,
-    "rec_days": 32,
+    "recs_count": 301,
+    "rec_days": 33,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 54,
-      "sci-fi": 29,
+      "fantasy": 56,
+      "sci-fi": 30,
       "horror": 9,
       "literary": 7,
+      "mystery": 5,
       "nonfiction": 4,
-      "mystery": 3,
       "other": 1
     }
   }
