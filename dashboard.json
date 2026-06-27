@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T12:39:51+00:00",
+  "updated": "2026-06-27T12:24:36+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -420,6 +420,23 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-06-27",
+      "picks": [
+        {
+          "title": "The Fires of Vengeance",
+          "genre": "literary"
+        },
+        {
+          "title": "The Saint of Steel",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Kushiel's Dart",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-06-26",
       "picks": [
@@ -1800,15 +1817,15 @@
   },
   "stats": {
     "owned_count": 417,
-    "recs_count": 301,
-    "rec_days": 33,
+    "recs_count": 304,
+    "rec_days": 34,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 56,
+      "fantasy": 58,
       "sci-fi": 30,
       "horror": 9,
-      "literary": 7,
+      "literary": 8,
       "mystery": 5,
       "nonfiction": 4,
       "other": 1
