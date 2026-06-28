@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T12:24:36+00:00",
+  "updated": "2026-06-28T12:25:22+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -420,6 +420,19 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-06-28",
+      "picks": [
+        {
+          "title": "The Shadows Between Us",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Elegance of the Hedgehog",
+          "genre": "wildcard"
+        }
+      ]
+    },
     {
       "date": "2026-06-27",
       "picks": [
@@ -1817,12 +1830,12 @@
   },
   "stats": {
     "owned_count": 417,
-    "recs_count": 304,
-    "rec_days": 34,
+    "recs_count": 306,
+    "rec_days": 35,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 58,
+      "fantasy": 59,
       "sci-fi": 30,
       "horror": 9,
       "literary": 8,
