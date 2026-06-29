@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T12:25:22+00:00",
+  "updated": "2026-06-29T13:22:50+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -420,6 +420,19 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-06-29",
+      "picks": [
+        {
+          "title": "The Thousand Eyes",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Middlegame",
+          "genre": "sci-fi"
+        }
+      ]
+    },
     {
       "date": "2026-06-28",
       "picks": [
@@ -1830,13 +1843,13 @@
   },
   "stats": {
     "owned_count": 417,
-    "recs_count": 306,
-    "rec_days": 35,
+    "recs_count": 308,
+    "rec_days": 36,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 59,
-      "sci-fi": 30,
+      "fantasy": 60,
+      "sci-fi": 31,
       "horror": 9,
       "literary": 8,
       "mystery": 5,
