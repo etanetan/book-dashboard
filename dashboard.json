@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T13:22:50+00:00",
+  "updated": "2026-06-30T12:37:29+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -420,6 +420,15 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-06-30",
+      "picks": [
+        {
+          "title": "Seventh Son",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-06-29",
       "picks": [
@@ -1843,12 +1852,12 @@
   },
   "stats": {
     "owned_count": 417,
-    "recs_count": 308,
-    "rec_days": 36,
+    "recs_count": 309,
+    "rec_days": 37,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 60,
+      "fantasy": 61,
       "sci-fi": 31,
       "horror": 9,
       "literary": 8,
