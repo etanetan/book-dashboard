@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T12:37:29+00:00",
+  "updated": "2026-07-01T12:54:19+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -420,6 +420,27 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-07-01",
+      "picks": [
+        {
+          "title": "The Blade of Ashes",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Broken Sword",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Sixth of the Dusk",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Seven Husbands of Evelyn Hugo",
+          "genre": "wildcard"
+        }
+      ]
+    },
     {
       "date": "2026-06-30",
       "picks": [
@@ -1852,13 +1873,13 @@
   },
   "stats": {
     "owned_count": 417,
-    "recs_count": 309,
-    "rec_days": 37,
+    "recs_count": 313,
+    "rec_days": 38,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 61,
-      "sci-fi": 31,
+      "fantasy": 63,
+      "sci-fi": 32,
       "horror": 9,
       "literary": 8,
       "mystery": 5,
