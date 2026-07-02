@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T12:54:19+00:00",
+  "updated": "2026-07-02T12:37:45+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -420,6 +420,35 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-07-02",
+      "picks": [
+        {
+          "title": "The Deep",
+          "genre": "horror"
+        },
+        {
+          "title": "The Spear of Summer Grass",
+          "genre": "literary"
+        },
+        {
+          "title": "The Thousand Moons of Kamara",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The City of Dusk",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Legendborn",
+          "genre": "mystery"
+        },
+        {
+          "title": "The Bone Houses",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-07-01",
       "picks": [
@@ -1873,16 +1902,16 @@
   },
   "stats": {
     "owned_count": 417,
-    "recs_count": 313,
-    "rec_days": 38,
+    "recs_count": 319,
+    "rec_days": 39,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 63,
-      "sci-fi": 32,
-      "horror": 9,
-      "literary": 8,
-      "mystery": 5,
+      "fantasy": 65,
+      "sci-fi": 33,
+      "horror": 10,
+      "literary": 9,
+      "mystery": 6,
       "nonfiction": 4,
       "other": 1
     }
