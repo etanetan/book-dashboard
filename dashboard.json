@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T13:33:02+00:00",
+  "updated": "2026-07-04T12:58:28+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -420,6 +420,23 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-07-04",
+      "picks": [
+        {
+          "title": "The Historian",
+          "genre": "literary"
+        },
+        {
+          "title": "The City and the Stars",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Historian",
+          "genre": "wildcard"
+        }
+      ]
+    },
     {
       "date": "2026-07-03",
       "picks": [
@@ -1915,15 +1932,15 @@
   },
   "stats": {
     "owned_count": 417,
-    "recs_count": 321,
-    "rec_days": 40,
+    "recs_count": 324,
+    "rec_days": 41,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
       "fantasy": 65,
-      "sci-fi": 35,
+      "sci-fi": 36,
+      "literary": 10,
       "horror": 10,
-      "literary": 9,
       "mystery": 6,
       "nonfiction": 4,
       "other": 1
