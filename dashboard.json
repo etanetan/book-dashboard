@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T14:05:32+00:00",
+  "updated": "2026-07-08T13:28:41+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -420,6 +420,15 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-07-08",
+      "picks": [
+        {
+          "title": "Godkiller",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-07-07",
       "picks": [
@@ -1954,12 +1963,12 @@
   },
   "stats": {
     "owned_count": 417,
-    "recs_count": 327,
-    "rec_days": 43,
+    "recs_count": 328,
+    "rec_days": 44,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 66,
+      "fantasy": 67,
       "sci-fi": 37,
       "literary": 10,
       "horror": 10,
