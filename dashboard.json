@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T13:28:41+00:00",
+  "updated": "2026-07-09T14:29:07+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -420,6 +420,15 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-07-09",
+      "picks": [
+        {
+          "title": "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",
+          "genre": "nonfiction"
+        }
+      ]
+    },
     {
       "date": "2026-07-08",
       "picks": [
@@ -1963,8 +1972,8 @@
   },
   "stats": {
     "owned_count": 417,
-    "recs_count": 328,
-    "rec_days": 44,
+    "recs_count": 329,
+    "rec_days": 45,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
@@ -1973,7 +1982,7 @@
       "literary": 10,
       "horror": 10,
       "mystery": 7,
-      "nonfiction": 4,
+      "nonfiction": 5,
       "other": 1
     }
   }
