@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T14:29:07+00:00",
+  "updated": "2026-07-10T13:55:42+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -420,6 +420,15 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-07-10",
+      "picks": [
+        {
+          "title": "Ninth City",
+          "genre": "mystery"
+        }
+      ]
+    },
     {
       "date": "2026-07-09",
       "picks": [
@@ -1972,8 +1981,8 @@
   },
   "stats": {
     "owned_count": 417,
-    "recs_count": 329,
-    "rec_days": 45,
+    "recs_count": 330,
+    "rec_days": 46,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
@@ -1981,7 +1990,7 @@
       "sci-fi": 37,
       "literary": 10,
       "horror": 10,
-      "mystery": 7,
+      "mystery": 8,
       "nonfiction": 5,
       "other": 1
     }
