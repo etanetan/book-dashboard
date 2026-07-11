@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T13:55:42+00:00",
+  "updated": "2026-07-11T12:52:33+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -420,6 +420,19 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-07-11",
+      "picks": [
+        {
+          "title": "Ruin",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Komorebi",
+          "genre": "mystery"
+        }
+      ]
+    },
     {
       "date": "2026-07-10",
       "picks": [
@@ -1981,16 +1994,16 @@
   },
   "stats": {
     "owned_count": 417,
-    "recs_count": 330,
-    "rec_days": 46,
+    "recs_count": 332,
+    "rec_days": 47,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 67,
+      "fantasy": 68,
       "sci-fi": 37,
       "literary": 10,
       "horror": 10,
-      "mystery": 8,
+      "mystery": 9,
       "nonfiction": 5,
       "other": 1
     }
