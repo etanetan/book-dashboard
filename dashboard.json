@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T14:01:48+00:00",
+  "updated": "2026-07-15T13:08:52+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -420,6 +420,15 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-07-15",
+      "picks": [
+        {
+          "title": "The Deep",
+          "genre": "horror"
+        }
+      ]
+    },
     {
       "date": "2026-07-13",
       "picks": [
@@ -2015,15 +2024,15 @@
   },
   "stats": {
     "owned_count": 417,
-    "recs_count": 336,
-    "rec_days": 48,
+    "recs_count": 337,
+    "rec_days": 49,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
       "fantasy": 69,
       "sci-fi": 39,
+      "horror": 11,
       "literary": 10,
-      "horror": 10,
       "mystery": 10,
       "nonfiction": 5,
       "other": 1
