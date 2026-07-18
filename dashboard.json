@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T13:02:14+00:00",
+  "updated": "2026-07-18T12:47:41+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -420,6 +420,31 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-07-18",
+      "picks": [
+        {
+          "title": "Grayson",
+          "genre": "literary"
+        },
+        {
+          "title": "Circe",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Pitch Dark",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Singular Exploits of Wonder Mom and Party Girl",
+          "genre": "other"
+        },
+        {
+          "title": "The Bow of Destiny",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-07-17",
       "picks": [
@@ -2050,18 +2075,18 @@
   },
   "stats": {
     "owned_count": 417,
-    "recs_count": 341,
-    "rec_days": 51,
+    "recs_count": 346,
+    "rec_days": 52,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 69,
-      "sci-fi": 39,
-      "literary": 12,
+      "fantasy": 71,
+      "sci-fi": 40,
+      "literary": 13,
       "horror": 12,
       "mystery": 10,
       "nonfiction": 5,
-      "other": 1
+      "other": 2
     }
   }
 }
