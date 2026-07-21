@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T12:47:41+00:00",
+  "updated": "2026-07-21T13:14:32+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -379,6 +379,7 @@
     "The Untethered Soul by Michael A. Singer.epub",
     "The Wager by David Grann.epub",
     "The Way of the Superior Man by David Deida.epub",
+    "The Whisper Man by Steve Mosby.epub",
     "The Will of the Many (Hierarchy, Book 1) by James Islington.epub",
     "The Wind-Up Bird Chronicle by Haruki Murakami.epub",
     "The Winners by Fredrik Backman.epub",
@@ -420,6 +421,55 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-07-21",
+      "picks": [
+        {
+          "title": "The Empress of Salt and Fortune",
+          "genre": ""
+        },
+        {
+          "title": "The Kingdom of the Wicked",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Soulmate Equation",
+          "genre": "romance"
+        },
+        {
+          "title": "The Bridge Kingdom",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Unraveling of Cassidy Holmes",
+          "genre": "mystery"
+        },
+        {
+          "title": "The Deep",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Belles",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Diabolic",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Illuminae Files",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Weight of Feathers",
+          "genre": "literary"
+        },
+        {
+          "title": "The Stranger in the Woods",
+          "genre": "wildcard"
+        }
+      ]
+    },
     {
       "date": "2026-07-18",
       "picks": [
@@ -2074,19 +2124,20 @@
     "disliked": []
   },
   "stats": {
-    "owned_count": 417,
-    "recs_count": 346,
-    "rec_days": 52,
+    "owned_count": 418,
+    "recs_count": 357,
+    "rec_days": 53,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 71,
-      "sci-fi": 40,
-      "literary": 13,
+      "fantasy": 75,
+      "sci-fi": 42,
+      "literary": 14,
       "horror": 12,
-      "mystery": 10,
+      "mystery": 11,
       "nonfiction": 5,
-      "other": 2
+      "other": 2,
+      "romance": 1
     }
   }
 }
