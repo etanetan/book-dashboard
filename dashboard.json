@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T13:20:10+00:00",
+  "updated": "2026-07-23T13:23:02+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -421,6 +421,15 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-07-23",
+      "picks": [
+        {
+          "title": "The Rage of Innocents",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-07-22",
       "picks": [
@@ -2138,12 +2147,12 @@
   },
   "stats": {
     "owned_count": 418,
-    "recs_count": 359,
-    "rec_days": 54,
+    "recs_count": 360,
+    "rec_days": 55,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 77,
+      "fantasy": 78,
       "sci-fi": 42,
       "literary": 14,
       "horror": 12,
