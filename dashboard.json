@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T13:23:02+00:00",
+  "updated": "2026-07-24T13:16:23+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -421,6 +421,15 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-07-24",
+      "picks": [
+        {
+          "title": "The Maltese Falcon",
+          "genre": "mystery"
+        }
+      ]
+    },
     {
       "date": "2026-07-23",
       "picks": [
@@ -2147,8 +2156,8 @@
   },
   "stats": {
     "owned_count": 418,
-    "recs_count": 360,
-    "rec_days": 55,
+    "recs_count": 361,
+    "rec_days": 56,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
@@ -2156,7 +2165,7 @@
       "sci-fi": 42,
       "literary": 14,
       "horror": 12,
-      "mystery": 11,
+      "mystery": 12,
       "nonfiction": 5,
       "other": 2,
       "romance": 1
