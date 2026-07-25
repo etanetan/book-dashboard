@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T13:16:23+00:00",
+  "updated": "2026-07-25T12:59:07+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -421,6 +421,23 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-07-25",
+      "picks": [
+        {
+          "title": "The Gutter Prayer",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The House of Sticks",
+          "genre": "literary"
+        },
+        {
+          "title": "Ariadne",
+          "genre": "literary"
+        }
+      ]
+    },
     {
       "date": "2026-07-24",
       "picks": [
@@ -2156,14 +2173,14 @@
   },
   "stats": {
     "owned_count": 418,
-    "recs_count": 361,
-    "rec_days": 56,
+    "recs_count": 364,
+    "rec_days": 57,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 78,
+      "fantasy": 79,
       "sci-fi": 42,
-      "literary": 14,
+      "literary": 16,
       "horror": 12,
       "mystery": 12,
       "nonfiction": 5,
