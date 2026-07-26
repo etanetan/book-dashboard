@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T12:59:07+00:00",
+  "updated": "2026-07-26T12:56:12+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -421,6 +421,15 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-07-26",
+      "picks": [
+        {
+          "title": "The Cruel Prince",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-07-25",
       "picks": [
@@ -2173,12 +2182,12 @@
   },
   "stats": {
     "owned_count": 418,
-    "recs_count": 364,
-    "rec_days": 57,
+    "recs_count": 365,
+    "rec_days": 58,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 79,
+      "fantasy": 80,
       "sci-fi": 42,
       "literary": 16,
       "horror": 12,
