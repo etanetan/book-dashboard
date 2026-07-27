@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T12:56:12+00:00",
+  "updated": "2026-07-27T14:09:51+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -421,6 +421,23 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-07-27",
+      "picks": [
+        {
+          "title": "Blackfish City",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Deep",
+          "genre": "horror"
+        },
+        {
+          "title": "The Thousand Year War",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-07-26",
       "picks": [
@@ -2182,15 +2199,15 @@
   },
   "stats": {
     "owned_count": 418,
-    "recs_count": 365,
-    "rec_days": 58,
+    "recs_count": 368,
+    "rec_days": 59,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 80,
-      "sci-fi": 42,
+      "fantasy": 81,
+      "sci-fi": 43,
       "literary": 16,
-      "horror": 12,
+      "horror": 13,
       "mystery": 12,
       "nonfiction": 5,
       "other": 2,
