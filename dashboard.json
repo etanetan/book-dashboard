@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T14:09:51+00:00",
+  "updated": "2026-07-28T13:29:09+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -421,6 +421,19 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-07-28",
+      "picks": [
+        {
+          "title": "Weirdwood",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Weirdwood Manor",
+          "genre": "mystery"
+        }
+      ]
+    },
     {
       "date": "2026-07-27",
       "picks": [
@@ -2199,16 +2212,16 @@
   },
   "stats": {
     "owned_count": 418,
-    "recs_count": 368,
-    "rec_days": 59,
+    "recs_count": 370,
+    "rec_days": 60,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 81,
+      "fantasy": 82,
       "sci-fi": 43,
       "literary": 16,
       "horror": 13,
-      "mystery": 12,
+      "mystery": 13,
       "nonfiction": 5,
       "other": 2,
       "romance": 1
