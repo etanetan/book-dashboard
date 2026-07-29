@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T13:29:09+00:00",
+  "updated": "2026-07-29T13:43:56+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -421,6 +421,19 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-07-29",
+      "picks": [
+        {
+          "title": "The ABC Murders",
+          "genre": "mystery"
+        },
+        {
+          "title": "The House of the Spirits",
+          "genre": "literary"
+        }
+      ]
+    },
     {
       "date": "2026-07-28",
       "picks": [
@@ -2212,16 +2225,16 @@
   },
   "stats": {
     "owned_count": 418,
-    "recs_count": 370,
-    "rec_days": 60,
+    "recs_count": 372,
+    "rec_days": 61,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
       "fantasy": 82,
       "sci-fi": 43,
-      "literary": 16,
+      "literary": 17,
+      "mystery": 14,
       "horror": 13,
-      "mystery": 13,
       "nonfiction": 5,
       "other": 2,
       "romance": 1
