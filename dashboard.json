@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T13:43:56+00:00",
+  "updated": "2026-07-30T13:25:49+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -421,6 +421,35 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-07-30",
+      "picks": [
+        {
+          "title": "The Kingdom of the Blind",
+          "genre": "mystery"
+        },
+        {
+          "title": "The Deep",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Winner's Curse",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Memory Police",
+          "genre": "literary"
+        },
+        {
+          "title": "The Last Time I Lied",
+          "genre": "mystery"
+        },
+        {
+          "title": "The Gilded Ones",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-07-29",
       "picks": [
@@ -2225,15 +2254,15 @@
   },
   "stats": {
     "owned_count": 418,
-    "recs_count": 372,
-    "rec_days": 61,
+    "recs_count": 378,
+    "rec_days": 62,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 82,
+      "fantasy": 85,
       "sci-fi": 43,
-      "literary": 17,
-      "mystery": 14,
+      "literary": 18,
+      "mystery": 16,
       "horror": 13,
       "nonfiction": 5,
       "other": 2,
