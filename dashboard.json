@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T13:25:49+00:00",
+  "updated": "2026-07-31T13:30:09+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -421,6 +421,19 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-07-31",
+      "picks": [
+        {
+          "title": "The Thin Air",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Winterwood Knot",
+          "genre": "mystery"
+        }
+      ]
+    },
     {
       "date": "2026-07-30",
       "picks": [
@@ -2254,15 +2267,15 @@
   },
   "stats": {
     "owned_count": 418,
-    "recs_count": 378,
-    "rec_days": 62,
+    "recs_count": 380,
+    "rec_days": 63,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
       "fantasy": 85,
-      "sci-fi": 43,
+      "sci-fi": 44,
       "literary": 18,
-      "mystery": 16,
+      "mystery": 17,
       "horror": 13,
       "nonfiction": 5,
       "other": 2,
