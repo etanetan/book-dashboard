@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T13:30:09+00:00",
+  "updated": "2026-08-01T12:54:33+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -333,6 +333,7 @@
     "The Narrow Road Between Desires by Patrick Rothfuss.epub",
     "The Next Person You Meet in Heaven by Mitch Albom.epub",
     "The Nickel Boys by Colson Whitehead.epub",
+    "The Odyssey (Homer, Emily Wilson (translation)).epub",
     "The Offing by Benjamin Myers.epub",
     "The Other Wes Moore by Wes Moore.epub",
     "The Outsiders by S. E. Hinton.epub",
@@ -421,6 +422,19 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-08-01",
+      "picks": [
+        {
+          "title": "The Cutthroat Oath",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Dread Nation",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-07-31",
       "picks": [
@@ -2266,13 +2280,13 @@
     "disliked": []
   },
   "stats": {
-    "owned_count": 418,
-    "recs_count": 380,
-    "rec_days": 63,
+    "owned_count": 419,
+    "recs_count": 382,
+    "rec_days": 64,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 85,
+      "fantasy": 87,
       "sci-fi": 44,
       "literary": 18,
       "mystery": 17,
