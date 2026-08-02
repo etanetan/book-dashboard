@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T12:54:33+00:00",
+  "updated": "2026-08-02T12:56:09+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,15 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-08-02",
+      "picks": [
+        {
+          "title": "Blinded by the Light",
+          "genre": "literary"
+        }
+      ]
+    },
     {
       "date": "2026-08-01",
       "picks": [
@@ -2281,14 +2290,14 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 382,
-    "rec_days": 64,
+    "recs_count": 383,
+    "rec_days": 65,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
       "fantasy": 87,
       "sci-fi": 44,
-      "literary": 18,
+      "literary": 19,
       "mystery": 17,
       "horror": 13,
       "nonfiction": 5,
