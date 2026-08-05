@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T14:14:20+00:00",
+  "updated": "2026-08-05T13:41:02+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,19 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-08-05",
+      "picks": [
+        {
+          "title": "The Copper Promise",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Ballad of Pecos Bill",
+          "genre": "literary"
+        }
+      ]
+    },
     {
       "date": "2026-08-03",
       "picks": [
@@ -2303,14 +2316,14 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 385,
-    "rec_days": 66,
+    "recs_count": 387,
+    "rec_days": 67,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 87,
+      "fantasy": 88,
       "sci-fi": 45,
-      "literary": 19,
+      "literary": 20,
       "mystery": 17,
       "horror": 13,
       "nonfiction": 5,
