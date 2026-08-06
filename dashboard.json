@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T13:41:02+00:00",
+  "updated": "2026-08-06T13:33:42+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,43 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-08-06",
+      "picks": [
+        {
+          "title": "The Deep",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Unlikely Escape of Uriah Heep",
+          "genre": "literary"
+        },
+        {
+          "title": "The Southern Book Club's Guide to Slaying Vampires",
+          "genre": "horror"
+        },
+        {
+          "title": "The Family Plot",
+          "genre": "horror"
+        },
+        {
+          "title": "A Song for a New Day",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Age of Witches",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Poppy and the Rose",
+          "genre": "romance"
+        },
+        {
+          "title": "The Sixth Extinction: An Unnatural History",
+          "genre": "wildcard"
+        }
+      ]
+    },
     {
       "date": "2026-08-05",
       "picks": [
@@ -2316,19 +2353,19 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 387,
-    "rec_days": 67,
+    "recs_count": 395,
+    "rec_days": 68,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 88,
-      "sci-fi": 45,
-      "literary": 20,
+      "fantasy": 90,
+      "sci-fi": 46,
+      "literary": 21,
       "mystery": 17,
-      "horror": 13,
+      "horror": 15,
       "nonfiction": 5,
       "other": 2,
-      "romance": 1
+      "romance": 2
     }
   }
 }
