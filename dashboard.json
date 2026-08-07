@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T13:33:42+00:00",
+  "updated": "2026-08-07T12:38:58+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,19 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-08-07",
+      "picks": [
+        {
+          "title": "The Book of Accidents",
+          "genre": "horror"
+        },
+        {
+          "title": "The Firekeeper's Daughter",
+          "genre": "mystery"
+        }
+      ]
+    },
     {
       "date": "2026-08-06",
       "picks": [
@@ -2353,16 +2366,16 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 395,
-    "rec_days": 68,
+    "recs_count": 397,
+    "rec_days": 69,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
       "fantasy": 90,
       "sci-fi": 46,
       "literary": 21,
-      "mystery": 17,
-      "horror": 15,
+      "mystery": 18,
+      "horror": 16,
       "nonfiction": 5,
       "other": 2,
       "romance": 2
