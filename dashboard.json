@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T12:38:58+00:00",
+  "updated": "2026-08-08T12:29:35+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,31 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-08-08",
+      "picks": [
+        {
+          "title": "The City of Dreams",
+          "genre": "thriller"
+        },
+        {
+          "title": "The Queen's Gambit",
+          "genre": "literary"
+        },
+        {
+          "title": "The Night Tiger",
+          "genre": "mystery"
+        },
+        {
+          "title": "The Devil's Evidence",
+          "genre": "horror"
+        },
+        {
+          "title": "The Song of the Dodo",
+          "genre": "wildcard"
+        }
+      ]
+    },
     {
       "date": "2026-08-07",
       "picks": [
@@ -2366,19 +2391,20 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 397,
-    "rec_days": 69,
+    "recs_count": 402,
+    "rec_days": 70,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
       "fantasy": 90,
       "sci-fi": 46,
-      "literary": 21,
-      "mystery": 18,
-      "horror": 16,
+      "literary": 22,
+      "mystery": 19,
+      "horror": 17,
       "nonfiction": 5,
       "other": 2,
-      "romance": 2
+      "romance": 2,
+      "thriller": 1
     }
   }
 }
