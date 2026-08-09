@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T12:29:35+00:00",
+  "updated": "2026-08-09T12:26:57+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,15 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-08-09",
+      "picks": [
+        {
+          "title": "The Daughter of Doctor Moreau",
+          "genre": "literary"
+        }
+      ]
+    },
     {
       "date": "2026-08-08",
       "picks": [
@@ -2391,14 +2400,14 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 402,
-    "rec_days": 70,
+    "recs_count": 403,
+    "rec_days": 71,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
       "fantasy": 90,
       "sci-fi": 46,
-      "literary": 22,
+      "literary": 23,
       "mystery": 19,
       "horror": 17,
       "nonfiction": 5,
