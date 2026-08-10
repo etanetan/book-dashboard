@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T12:26:57+00:00",
+  "updated": "2026-08-10T12:42:48+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,19 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-08-10",
+      "picks": [
+        {
+          "title": "The Worm and His Kings",
+          "genre": "horror"
+        },
+        {
+          "title": "The Worm at the World's Heart",
+          "genre": "horror"
+        }
+      ]
+    },
     {
       "date": "2026-08-09",
       "picks": [
@@ -2400,16 +2413,16 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 403,
-    "rec_days": 71,
+    "recs_count": 405,
+    "rec_days": 72,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
       "fantasy": 90,
       "sci-fi": 46,
       "literary": 23,
+      "horror": 19,
       "mystery": 19,
-      "horror": 17,
       "nonfiction": 5,
       "other": 2,
       "romance": 2,
