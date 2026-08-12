@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T12:40:12+00:00",
+  "updated": "2026-08-12T12:42:40+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,19 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-08-12",
+      "picks": [
+        {
+          "title": "Tigana",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Winter Road",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-08-11",
       "picks": [
@@ -2422,12 +2435,12 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 406,
-    "rec_days": 73,
+    "recs_count": 408,
+    "rec_days": 74,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 90,
+      "fantasy": 92,
       "sci-fi": 46,
       "literary": 23,
       "mystery": 20,
