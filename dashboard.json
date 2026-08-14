@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T12:43:52+00:00",
+  "updated": "2026-08-14T12:40:09+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,27 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-08-14",
+      "picks": [
+        {
+          "title": "Iron Widow",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Extraordinary Disappearances of Leopold Berry",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Deep",
+          "genre": "horror"
+        },
+        {
+          "title": "Lessons in Chemistry",
+          "genre": "wildcard"
+        }
+      ]
+    },
     {
       "date": "2026-08-13",
       "picks": [
@@ -2448,16 +2469,16 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 410,
-    "rec_days": 75,
+    "recs_count": 414,
+    "rec_days": 76,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 92,
-      "sci-fi": 46,
+      "fantasy": 93,
+      "sci-fi": 47,
       "literary": 23,
       "mystery": 21,
-      "horror": 19,
+      "horror": 20,
       "nonfiction": 5,
       "other": 2,
       "romance": 2,
