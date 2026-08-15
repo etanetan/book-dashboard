@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T12:40:09+00:00",
+  "updated": "2026-08-15T12:17:53+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,55 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-08-15",
+      "picks": [
+        {
+          "title": "Dune",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Bone Shard War",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Obsidian Tower",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Kingdom of Ohio",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Buried Giant",
+          "genre": "literary"
+        },
+        {
+          "title": "The Deep",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Unseen",
+          "genre": "nonfiction"
+        },
+        {
+          "title": "The Other Mrs. Miller",
+          "genre": "mystery"
+        },
+        {
+          "title": "The Witch Elm",
+          "genre": "mystery"
+        },
+        {
+          "title": "The 8th Circle",
+          "genre": "mystery"
+        },
+        {
+          "title": "The Art of Possibility",
+          "genre": "wildcard"
+        }
+      ]
+    },
     {
       "date": "2026-08-14",
       "picks": [
@@ -2469,17 +2518,17 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 414,
-    "rec_days": 76,
+    "recs_count": 425,
+    "rec_days": 77,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 93,
-      "sci-fi": 47,
-      "literary": 23,
-      "mystery": 21,
+      "fantasy": 97,
+      "sci-fi": 48,
+      "literary": 24,
+      "mystery": 24,
       "horror": 20,
-      "nonfiction": 5,
+      "nonfiction": 6,
       "other": 2,
       "romance": 2,
       "thriller": 1
