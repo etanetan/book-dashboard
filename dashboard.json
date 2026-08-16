@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T12:17:53+00:00",
+  "updated": "2026-08-16T12:17:45+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,39 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-08-16",
+      "picks": [
+        {
+          "title": "The Deep",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Wolf's Call",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Poet X",
+          "genre": "literary"
+        },
+        {
+          "title": "The Girl Who Drank the Moon",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Forbidden Wish",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Darkest Part of the Forest",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Accident Season",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-08-15",
       "picks": [
@@ -2518,14 +2551,14 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 425,
-    "rec_days": 77,
+    "recs_count": 432,
+    "rec_days": 78,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 97,
+      "fantasy": 103,
       "sci-fi": 48,
-      "literary": 24,
+      "literary": 25,
       "mystery": 24,
       "horror": 20,
       "nonfiction": 6,
