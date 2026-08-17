@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T12:17:45+00:00",
+  "updated": "2026-08-17T12:21:09+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,15 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-08-17",
+      "picks": [
+        {
+          "title": "Ventus",
+          "genre": "sci-fi"
+        }
+      ]
+    },
     {
       "date": "2026-08-16",
       "picks": [
@@ -2551,13 +2560,13 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 432,
-    "rec_days": 78,
+    "recs_count": 433,
+    "rec_days": 79,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
       "fantasy": 103,
-      "sci-fi": 48,
+      "sci-fi": 49,
       "literary": 25,
       "mystery": 24,
       "horror": 20,
