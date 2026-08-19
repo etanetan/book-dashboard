@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T12:23:26+00:00",
+  "updated": "2026-08-19T12:22:45+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,23 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-08-19",
+      "picks": [
+        {
+          "title": "Gardens of the Moon",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Too Many Cooks",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Hollower",
+          "genre": "horror"
+        }
+      ]
+    },
     {
       "date": "2026-08-18",
       "picks": [
@@ -2569,16 +2586,16 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 434,
-    "rec_days": 80,
+    "recs_count": 437,
+    "rec_days": 81,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 103,
-      "sci-fi": 50,
+      "fantasy": 104,
+      "sci-fi": 51,
       "literary": 25,
       "mystery": 24,
-      "horror": 20,
+      "horror": 21,
       "nonfiction": 6,
       "other": 2,
       "romance": 2,
