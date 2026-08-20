@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T12:22:45+00:00",
+  "updated": "2026-08-20T12:25:03+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,27 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-08-20",
+      "picks": [
+        {
+          "title": "The Sweetness at the Bottom of the Pie",
+          "genre": "mystery"
+        },
+        {
+          "title": "The Curious Incident of the Dog in the Night-Time",
+          "genre": "mystery"
+        },
+        {
+          "title": "The Killing Kind",
+          "genre": "mystery"
+        },
+        {
+          "title": "The Seven-Day Gentleman",
+          "genre": "wildcard"
+        }
+      ]
+    },
     {
       "date": "2026-08-19",
       "picks": [
@@ -2586,15 +2607,15 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 437,
-    "rec_days": 81,
+    "recs_count": 441,
+    "rec_days": 82,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
       "fantasy": 104,
       "sci-fi": 51,
+      "mystery": 27,
       "literary": 25,
-      "mystery": 24,
       "horror": 21,
       "nonfiction": 6,
       "other": 2,
