@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T12:25:03+00:00",
+  "updated": "2026-08-24T12:24:47+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,15 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-08-24",
+      "picks": [
+        {
+          "title": "The Goblin Emperor",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-08-20",
       "picks": [
@@ -2607,12 +2616,12 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 441,
-    "rec_days": 82,
+    "recs_count": 442,
+    "rec_days": 83,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 104,
+      "fantasy": 105,
       "sci-fi": 51,
       "mystery": 27,
       "literary": 25,
