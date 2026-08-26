@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T12:25:25+00:00",
+  "updated": "2026-08-26T12:27:38+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,27 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-08-26",
+      "picks": [
+        {
+          "title": "King of Ash and Bone",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Spin",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Alienist",
+          "genre": "mystery"
+        },
+        {
+          "title": "Maus: A Survivor's Tale",
+          "genre": "nonfiction"
+        }
+      ]
+    },
     {
       "date": "2026-08-25",
       "picks": [
@@ -2625,17 +2646,17 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 443,
-    "rec_days": 84,
+    "recs_count": 447,
+    "rec_days": 85,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 106,
-      "sci-fi": 51,
-      "mystery": 27,
+      "fantasy": 107,
+      "sci-fi": 52,
+      "mystery": 28,
       "literary": 25,
       "horror": 21,
-      "nonfiction": 6,
+      "nonfiction": 7,
       "other": 2,
       "romance": 2,
       "thriller": 1
