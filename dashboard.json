@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T12:27:38+00:00",
+  "updated": "2026-08-28T21:36:48+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,23 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-08-28",
+      "picks": [
+        {
+          "title": "Spin",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Altered Carbon",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Name of the Rose",
+          "genre": "mystery"
+        }
+      ]
+    },
     {
       "date": "2026-08-26",
       "picks": [
@@ -2646,14 +2663,14 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 447,
-    "rec_days": 85,
+    "recs_count": 450,
+    "rec_days": 86,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
       "fantasy": 107,
-      "sci-fi": 52,
-      "mystery": 28,
+      "sci-fi": 54,
+      "mystery": 29,
       "literary": 25,
       "horror": 21,
       "nonfiction": 7,
