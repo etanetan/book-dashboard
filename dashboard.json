@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T15:40:48+00:00",
+  "updated": "2026-08-31T18:23:09+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,19 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-08-31",
+      "picks": [
+        {
+          "title": "Dune",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Pale Veil",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-08-30",
       "picks": [
@@ -2676,13 +2689,13 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 452,
-    "rec_days": 87,
+    "recs_count": 454,
+    "rec_days": 88,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 108,
-      "sci-fi": 54,
+      "fantasy": 109,
+      "sci-fi": 55,
       "mystery": 29,
       "literary": 25,
       "horror": 21,
