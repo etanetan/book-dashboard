@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T15:32:04+00:00",
+  "updated": "2026-09-03T15:25:58+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,23 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-09-03",
+      "picks": [
+        {
+          "title": "Spin",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The City of Brass",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Invisible Bridge",
+          "genre": "wildcard"
+        }
+      ]
+    },
     {
       "date": "2026-09-02",
       "picks": [
@@ -2715,13 +2732,13 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 458,
-    "rec_days": 90,
+    "recs_count": 461,
+    "rec_days": 91,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 110,
-      "sci-fi": 57,
+      "fantasy": 111,
+      "sci-fi": 58,
       "mystery": 29,
       "literary": 26,
       "horror": 21,
