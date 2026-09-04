@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T15:25:58+00:00",
+  "updated": "2026-09-04T15:21:53+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,15 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-09-04",
+      "picks": [
+        {
+          "title": "The House of Hunger",
+          "genre": "horror"
+        }
+      ]
+    },
     {
       "date": "2026-09-03",
       "picks": [
@@ -2732,8 +2741,8 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 461,
-    "rec_days": 91,
+    "recs_count": 462,
+    "rec_days": 92,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
@@ -2741,7 +2750,7 @@
       "sci-fi": 58,
       "mystery": 29,
       "literary": 26,
-      "horror": 21,
+      "horror": 22,
       "nonfiction": 7,
       "other": 2,
       "romance": 2,
