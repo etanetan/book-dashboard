@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T14:10:30+00:00",
+  "updated": "2026-09-06T14:35:09+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,23 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-09-06",
+      "picks": [
+        {
+          "title": "The Burning Girls",
+          "genre": "mystery"
+        },
+        {
+          "title": "The Mercy of Gods",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Bitter Twins",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-09-05",
       "picks": [
@@ -2754,14 +2771,14 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 464,
-    "rec_days": 93,
+    "recs_count": 467,
+    "rec_days": 94,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 112,
+      "fantasy": 114,
       "sci-fi": 59,
-      "mystery": 29,
+      "mystery": 30,
       "literary": 26,
       "horror": 22,
       "nonfiction": 7,
