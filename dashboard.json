@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T15:31:43+00:00",
+  "updated": "2026-09-10T15:26:07+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,35 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-09-10",
+      "picks": [
+        {
+          "title": "The Mask of Mirrors",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Gideon Smith and the Mechanical Girl",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Luminous Dead",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Perdido Street Station",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Thousand Autumns of Jacob de Zoet",
+          "genre": "literary"
+        },
+        {
+          "title": "The Starless Sea",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-09-09",
       "picks": [
@@ -2825,15 +2854,15 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 478,
-    "rec_days": 96,
+    "recs_count": 484,
+    "rec_days": 97,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 121,
-      "sci-fi": 62,
+      "fantasy": 124,
+      "sci-fi": 64,
       "mystery": 30,
-      "literary": 27,
+      "literary": 28,
       "horror": 22,
       "nonfiction": 7,
       "other": 2,
