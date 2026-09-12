@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T15:26:07+00:00",
+  "updated": "2026-09-12T14:35:04+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,15 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-09-12",
+      "picks": [
+        {
+          "title": "Spin",
+          "genre": "sci-fi"
+        }
+      ]
+    },
     {
       "date": "2026-09-10",
       "picks": [
@@ -2854,13 +2863,13 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 484,
-    "rec_days": 97,
+    "recs_count": 485,
+    "rec_days": 98,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
       "fantasy": 124,
-      "sci-fi": 64,
+      "sci-fi": 65,
       "mystery": 30,
       "literary": 28,
       "horror": 22,
