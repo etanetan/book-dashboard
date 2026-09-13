@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T14:35:04+00:00",
+  "updated": "2026-09-13T15:16:33+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,39 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-09-13",
+      "picks": [
+        {
+          "title": "Spin",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Broken Earth Trilogy",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Grendel",
+          "genre": "literary"
+        },
+        {
+          "title": "Ninth House",
+          "genre": "mystery"
+        },
+        {
+          "title": "The Silent Companions",
+          "genre": "mystery"
+        },
+        {
+          "title": "The Calculating Stars",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Silvered",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-09-12",
       "picks": [
@@ -2863,15 +2896,15 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 485,
-    "rec_days": 98,
+    "recs_count": 492,
+    "rec_days": 99,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 124,
-      "sci-fi": 65,
-      "mystery": 30,
-      "literary": 28,
+      "fantasy": 126,
+      "sci-fi": 67,
+      "mystery": 32,
+      "literary": 29,
       "horror": 22,
       "nonfiction": 7,
       "other": 2,
