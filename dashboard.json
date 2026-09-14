@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T15:16:33+00:00",
+  "updated": "2026-09-14T17:13:35+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,35 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-09-14",
+      "picks": [
+        {
+          "title": "Swordheart",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Spin",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Deep",
+          "genre": "horror"
+        },
+        {
+          "title": "Sorcerer to the Crown",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The House of Shadows",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Diaspora",
+          "genre": "sci-fi"
+        }
+      ]
+    },
     {
       "date": "2026-09-13",
       "picks": [
@@ -2896,16 +2925,16 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 492,
-    "rec_days": 99,
+    "recs_count": 498,
+    "rec_days": 100,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 126,
-      "sci-fi": 67,
+      "fantasy": 129,
+      "sci-fi": 69,
       "mystery": 32,
       "literary": 29,
-      "horror": 22,
+      "horror": 23,
       "nonfiction": 7,
       "other": 2,
       "romance": 2,
