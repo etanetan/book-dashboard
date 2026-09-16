@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T17:13:35+00:00",
+  "updated": "2026-09-16T15:44:27+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,27 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-09-16",
+      "picks": [
+        {
+          "title": "Master of Sorrows",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Blindsight",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Spin",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Night Circus",
+          "genre": "wildcard"
+        }
+      ]
+    },
     {
       "date": "2026-09-14",
       "picks": [
@@ -2925,13 +2946,13 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 498,
-    "rec_days": 100,
+    "recs_count": 502,
+    "rec_days": 101,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 129,
-      "sci-fi": 69,
+      "fantasy": 130,
+      "sci-fi": 71,
       "mystery": 32,
       "literary": 29,
       "horror": 23,
