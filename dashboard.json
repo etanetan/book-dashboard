@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T15:50:10+00:00",
+  "updated": "2026-09-19T15:01:03+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,43 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-09-19",
+      "picks": [
+        {
+          "title": "Ancillary Justice",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Cloud Roads",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Oath of the Vayda",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Embassytown",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Leviathan Wakes",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Library at Mount Char",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Crooked Sixpence",
+          "genre": "mystery"
+        },
+        {
+          "title": "The King's Curse",
+          "genre": "literary"
+        }
+      ]
+    },
     {
       "date": "2026-09-17",
       "picks": [
@@ -2955,15 +2992,15 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 503,
-    "rec_days": 102,
+    "recs_count": 511,
+    "rec_days": 103,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 130,
-      "sci-fi": 72,
-      "mystery": 32,
-      "literary": 29,
+      "fantasy": 133,
+      "sci-fi": 75,
+      "mystery": 33,
+      "literary": 30,
       "horror": 23,
       "nonfiction": 7,
       "other": 2,
