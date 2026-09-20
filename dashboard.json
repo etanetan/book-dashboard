@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T15:01:03+00:00",
+  "updated": "2026-09-20T15:03:33+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,19 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-09-20",
+      "picks": [
+        {
+          "title": "The Ninth Rain",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Dune",
+          "genre": "sci-fi"
+        }
+      ]
+    },
     {
       "date": "2026-09-19",
       "picks": [
@@ -2992,13 +3005,13 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 511,
-    "rec_days": 103,
+    "recs_count": 513,
+    "rec_days": 104,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 133,
-      "sci-fi": 75,
+      "fantasy": 134,
+      "sci-fi": 76,
       "mystery": 33,
       "literary": 30,
       "horror": 23,
