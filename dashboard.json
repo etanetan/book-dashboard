@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T15:03:33+00:00",
+  "updated": "2026-09-21T17:21:08+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,43 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-09-21",
+      "picks": [
+        {
+          "title": "Spin",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Klara and the Sun",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "A Deadly Education",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Hollow Kind",
+          "genre": "horror"
+        },
+        {
+          "title": "The Jasmine Throne",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Merciful Crow",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Wolf of Oren-Yaro",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Twisted Ones",
+          "genre": "horror"
+        }
+      ]
+    },
     {
       "date": "2026-09-20",
       "picks": [
@@ -3005,16 +3042,16 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 513,
-    "rec_days": 104,
+    "recs_count": 521,
+    "rec_days": 105,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 134,
-      "sci-fi": 76,
+      "fantasy": 138,
+      "sci-fi": 78,
       "mystery": 33,
       "literary": 30,
-      "horror": 23,
+      "horror": 25,
       "nonfiction": 7,
       "other": 2,
       "romance": 2,
