@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T17:21:08+00:00",
+  "updated": "2026-09-22T15:54:48+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,27 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-09-22",
+      "picks": [
+        {
+          "title": "Spin",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Vita Nostra",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Slewfoot",
+          "genre": "horror"
+        },
+        {
+          "title": "The Swallowing Dark",
+          "genre": "horror"
+        }
+      ]
+    },
     {
       "date": "2026-09-21",
       "picks": [
@@ -3042,16 +3063,16 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 521,
-    "rec_days": 105,
+    "recs_count": 525,
+    "rec_days": 106,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 138,
-      "sci-fi": 78,
+      "fantasy": 139,
+      "sci-fi": 79,
       "mystery": 33,
       "literary": 30,
-      "horror": 25,
+      "horror": 27,
       "nonfiction": 7,
       "other": 2,
       "romance": 2,
