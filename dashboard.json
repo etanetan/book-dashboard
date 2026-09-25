@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T15:44:22+00:00",
+  "updated": "2026-09-25T16:06:20+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,23 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-09-25",
+      "picks": [
+        {
+          "title": "Spin",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Dune",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Sunlit Sword",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-09-23",
       "picks": [
@@ -3076,13 +3093,13 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 527,
-    "rec_days": 107,
+    "recs_count": 530,
+    "rec_days": 108,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 140,
-      "sci-fi": 80,
+      "fantasy": 141,
+      "sci-fi": 82,
       "mystery": 33,
       "literary": 30,
       "horror": 27,
