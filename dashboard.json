@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T15:19:26+00:00",
+  "updated": "2026-09-27T15:58:20+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,15 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-09-27",
+      "picks": [
+        {
+          "title": "Slow Regard of Silent Things",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-09-26",
       "picks": [
@@ -3114,12 +3123,12 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 534,
-    "rec_days": 109,
+    "recs_count": 535,
+    "rec_days": 110,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 142,
+      "fantasy": 143,
       "sci-fi": 84,
       "mystery": 33,
       "literary": 30,
