@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T15:58:20+00:00",
+  "updated": "2026-09-29T17:12:59+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,31 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-09-29",
+      "picks": [
+        {
+          "title": "Dune",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Spin",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Quarry",
+          "genre": "literary"
+        },
+        {
+          "title": "The Deep",
+          "genre": "horror"
+        },
+        {
+          "title": "The Grief of Stones",
+          "genre": "mystery"
+        }
+      ]
+    },
     {
       "date": "2026-09-27",
       "picks": [
@@ -3123,16 +3148,16 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 535,
-    "rec_days": 110,
+    "recs_count": 540,
+    "rec_days": 111,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
       "fantasy": 143,
-      "sci-fi": 84,
-      "mystery": 33,
-      "literary": 30,
-      "horror": 27,
+      "sci-fi": 86,
+      "mystery": 34,
+      "literary": 31,
+      "horror": 28,
       "nonfiction": 7,
       "other": 2,
       "romance": 2,
