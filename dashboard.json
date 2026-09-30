@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T17:12:59+00:00",
+  "updated": "2026-09-30T17:12:57+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,39 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-09-30",
+      "picks": [
+        {
+          "title": "The Merchant Princes",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Gideon Smith and the Clockwork Girl",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Blighted Worlds",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Spin",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Floating City",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Babel",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The City of Stairs",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-09-29",
       "picks": [
@@ -3148,13 +3181,13 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 540,
-    "rec_days": 111,
+    "recs_count": 547,
+    "rec_days": 112,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 143,
-      "sci-fi": 86,
+      "fantasy": 147,
+      "sci-fi": 89,
       "mystery": 34,
       "literary": 31,
       "horror": 28,
