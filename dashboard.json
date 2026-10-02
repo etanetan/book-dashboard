@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T17:40:40+00:00",
+  "updated": "2026-10-02T17:00:06+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,19 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-10-02",
+      "picks": [
+        {
+          "title": "Jonathan Strange & Mr Norrell",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Seven Husbands of Evelyn Hugo",
+          "genre": "wildcard"
+        }
+      ]
+    },
     {
       "date": "2026-10-01",
       "picks": [
@@ -3194,12 +3207,12 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 549,
-    "rec_days": 113,
+    "recs_count": 551,
+    "rec_days": 114,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 148,
+      "fantasy": 149,
       "sci-fi": 90,
       "mystery": 34,
       "literary": 31,
