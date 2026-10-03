@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T17:00:06+00:00",
+  "updated": "2026-10-03T15:23:14+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,39 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-10-03",
+      "picks": [
+        {
+          "title": "The Shallow Tales of Writer Wayne",
+          "genre": "literary"
+        },
+        {
+          "title": "Spin",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The City of Dusk",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Sundial",
+          "genre": "mystery"
+        },
+        {
+          "title": "The Blade of Inis Mean",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Elegy",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Anatomy of Wings",
+          "genre": "wildcard"
+        }
+      ]
+    },
     {
       "date": "2026-10-02",
       "picks": [
@@ -3207,15 +3240,15 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 551,
-    "rec_days": 114,
+    "recs_count": 558,
+    "rec_days": 115,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 149,
-      "sci-fi": 90,
-      "mystery": 34,
-      "literary": 31,
+      "fantasy": 152,
+      "sci-fi": 91,
+      "mystery": 35,
+      "literary": 32,
       "horror": 28,
       "nonfiction": 7,
       "other": 2,
