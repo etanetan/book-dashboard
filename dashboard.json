@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T15:23:14+00:00",
+  "updated": "2026-10-04T16:07:43+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,27 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-10-04",
+      "picks": [
+        {
+          "title": "The City in the Middle of the Night",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Blade of Kaigen",
+          "genre": "fantasy"
+        },
+        {
+          "title": "A Dowry of Blood",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Howl's Moving Castle",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-10-03",
       "picks": [
@@ -3240,13 +3261,13 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 558,
-    "rec_days": 115,
+    "recs_count": 562,
+    "rec_days": 116,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 152,
-      "sci-fi": 91,
+      "fantasy": 155,
+      "sci-fi": 92,
       "mystery": 35,
       "literary": 32,
       "horror": 28,
