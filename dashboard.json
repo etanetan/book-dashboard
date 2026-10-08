@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T17:34:06+00:00",
+  "updated": "2026-10-08T18:09:04+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,27 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-10-08",
+      "picks": [
+        {
+          "title": "Gideon Smith and the Brass Dragon",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Spin",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Gnomon",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Bewilderment",
+          "genre": "literary"
+        }
+      ]
+    },
     {
       "date": "2026-10-06",
       "picks": [
@@ -3282,15 +3303,15 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 566,
-    "rec_days": 117,
+    "recs_count": 570,
+    "rec_days": 118,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 155,
-      "sci-fi": 93,
+      "fantasy": 156,
+      "sci-fi": 95,
       "mystery": 35,
-      "literary": 33,
+      "literary": 34,
       "horror": 28,
       "nonfiction": 8,
       "other": 2,
