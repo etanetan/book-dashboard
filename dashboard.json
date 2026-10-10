@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T17:41:43+00:00",
+  "updated": "2026-10-10T16:33:10+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,35 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-10-10",
+      "picks": [
+        {
+          "title": "Spin",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Broken Sword",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Knife of Never Letting Go",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Thousand Eyes",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Library of the Unwritten",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Ruin of Kings",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-10-09",
       "picks": [
@@ -3316,13 +3345,13 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 572,
-    "rec_days": 119,
+    "recs_count": 578,
+    "rec_days": 120,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 157,
-      "sci-fi": 96,
+      "fantasy": 160,
+      "sci-fi": 99,
       "mystery": 35,
       "literary": 34,
       "horror": 28,
