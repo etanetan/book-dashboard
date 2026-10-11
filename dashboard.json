@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T16:33:10+00:00",
+  "updated": "2026-10-11T16:58:23+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,19 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-10-11",
+      "picks": [
+        {
+          "title": "Spin",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Too Late the Phalarope",
+          "genre": "literary"
+        }
+      ]
+    },
     {
       "date": "2026-10-10",
       "picks": [
@@ -3345,15 +3358,15 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 578,
-    "rec_days": 120,
+    "recs_count": 580,
+    "rec_days": 121,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
       "fantasy": 160,
-      "sci-fi": 99,
+      "sci-fi": 100,
+      "literary": 35,
       "mystery": 35,
-      "literary": 34,
       "horror": 28,
       "nonfiction": 8,
       "other": 2,
