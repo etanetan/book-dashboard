@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T18:39:08+00:00",
+  "updated": "2026-10-14T16:08:23+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,15 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-10-14",
+      "picks": [
+        {
+          "title": "The Only Good Indians",
+          "genre": "horror"
+        }
+      ]
+    },
     {
       "date": "2026-10-13",
       "picks": [
@@ -3376,8 +3385,8 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 582,
-    "rec_days": 123,
+    "recs_count": 583,
+    "rec_days": 124,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
@@ -3385,7 +3394,7 @@
       "sci-fi": 102,
       "literary": 35,
       "mystery": 35,
-      "horror": 28,
+      "horror": 29,
       "nonfiction": 8,
       "other": 2,
       "romance": 2,
