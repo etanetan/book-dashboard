@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T16:08:23+00:00",
+  "updated": "2026-10-15T15:56:04+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,19 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-10-15",
+      "picks": [
+        {
+          "title": "Dune",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Blade of Erin",
+          "genre": "literary"
+        }
+      ]
+    },
     {
       "date": "2026-10-14",
       "picks": [
@@ -3385,14 +3398,14 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 583,
-    "rec_days": 124,
+    "recs_count": 585,
+    "rec_days": 125,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
       "fantasy": 160,
-      "sci-fi": 102,
-      "literary": 35,
+      "sci-fi": 103,
+      "literary": 36,
       "mystery": 35,
       "horror": 29,
       "nonfiction": 8,
