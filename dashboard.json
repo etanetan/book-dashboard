@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T15:56:04+00:00",
+  "updated": "2026-10-16T15:44:29+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,23 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-10-16",
+      "picks": [
+        {
+          "title": "Spin",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Sword of Kaigan",
+          "genre": "fantasy"
+        },
+        {
+          "title": "The Enemies of Rome",
+          "genre": "literary"
+        }
+      ]
+    },
     {
       "date": "2026-10-15",
       "picks": [
@@ -3398,14 +3415,14 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 585,
-    "rec_days": 125,
+    "recs_count": 588,
+    "rec_days": 126,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 160,
-      "sci-fi": 103,
-      "literary": 36,
+      "fantasy": 161,
+      "sci-fi": 104,
+      "literary": 37,
       "mystery": 35,
       "horror": 29,
       "nonfiction": 8,
