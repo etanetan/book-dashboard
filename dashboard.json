@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T15:44:29+00:00",
+  "updated": "2026-10-17T14:36:10+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,15 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-10-17",
+      "picks": [
+        {
+          "title": "The Shadows of the Sun",
+          "genre": "literary"
+        }
+      ]
+    },
     {
       "date": "2026-10-16",
       "picks": [
@@ -3415,14 +3424,14 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 588,
-    "rec_days": 126,
+    "recs_count": 589,
+    "rec_days": 127,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
       "fantasy": 161,
       "sci-fi": 104,
-      "literary": 37,
+      "literary": 38,
       "mystery": 35,
       "horror": 29,
       "nonfiction": 8,
