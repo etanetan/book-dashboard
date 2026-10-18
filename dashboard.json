@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T14:36:10+00:00",
+  "updated": "2026-10-18T15:03:33+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,19 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-10-18",
+      "picks": [
+        {
+          "title": "Spin",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Blade of Ashes",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-10-17",
       "picks": [
@@ -3424,13 +3437,13 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 589,
-    "rec_days": 127,
+    "recs_count": 591,
+    "rec_days": 128,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 161,
-      "sci-fi": 104,
+      "fantasy": 162,
+      "sci-fi": 105,
       "literary": 38,
       "mystery": 35,
       "horror": 29,
