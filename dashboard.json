@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T15:03:33+00:00",
+  "updated": "2026-10-19T17:55:37+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,19 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-10-19",
+      "picks": [
+        {
+          "title": "Dune",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Grip of It",
+          "genre": "horror"
+        }
+      ]
+    },
     {
       "date": "2026-10-18",
       "picks": [
@@ -3437,16 +3450,16 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 591,
-    "rec_days": 128,
+    "recs_count": 593,
+    "rec_days": 129,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
       "fantasy": 162,
-      "sci-fi": 105,
+      "sci-fi": 106,
       "literary": 38,
       "mystery": 35,
-      "horror": 29,
+      "horror": 30,
       "nonfiction": 8,
       "other": 2,
       "romance": 2,
