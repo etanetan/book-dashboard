@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T16:14:59+00:00",
+  "updated": "2026-10-23T16:05:18+00:00",
   "library": [
     "100M Offers by Alex Hormozi.epub",
     "11.22.63 by Stephen King.epub",
@@ -422,6 +422,27 @@
     "Zen in the Art of Archery by Herrigel Eugen.epub"
   ],
   "rec_history": [
+    {
+      "date": "2026-10-23",
+      "picks": [
+        {
+          "title": "The Three-Body Problem",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "Spin",
+          "genre": "sci-fi"
+        },
+        {
+          "title": "The Ten Thousand Names",
+          "genre": "fantasy"
+        },
+        {
+          "title": "Red Sister",
+          "genre": "fantasy"
+        }
+      ]
+    },
     {
       "date": "2026-10-22",
       "picks": [
@@ -3463,13 +3484,13 @@
   },
   "stats": {
     "owned_count": 419,
-    "recs_count": 595,
-    "rec_days": 130,
+    "recs_count": 599,
+    "rec_days": 131,
     "loved_count": 3,
     "disliked_count": 0,
     "by_genre": {
-      "fantasy": 164,
-      "sci-fi": 106,
+      "fantasy": 166,
+      "sci-fi": 108,
       "literary": 38,
       "mystery": 35,
       "horror": 30,
